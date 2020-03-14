@@ -6,8 +6,6 @@ const mongoose = require('mongoose')
 const cors = require('cors')
 const blogsController = require('./controllers/blogs.js')
 
-
-
 app.use(express.json())
 
 const whitelist = ['http://localhost:3000']
