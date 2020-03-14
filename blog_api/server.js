@@ -2,7 +2,10 @@ const express = require('express')
 const app = express()
 const PORT = 3003
 const mongoose = require('mongoose')
+
+const cors = require('cors')
 const blogsController = require('./controllers/blogs.js')
+
 
 
 app.use(express.json())
