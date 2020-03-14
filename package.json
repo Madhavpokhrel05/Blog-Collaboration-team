@@ -1,7 +1,5 @@
 {
-
   "name": "Blog-Collaboration-team",
-
   "version": "1.0.0",
   "description": "GA team project",
   "main": "server.js",
@@ -13,9 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/Madhavpokhrel05/Blog-Collaboration-team.git"
   },
-
   "keywords": [],
-
   "author": "",
   "license": "ISC",
   "bugs": {
