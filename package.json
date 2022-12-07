@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/Madhavpokhrel05/Blog-Collaboration-team#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.18.2"
   }
 }
